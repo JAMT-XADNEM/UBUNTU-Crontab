@@ -1,2 +1,0 @@
-# UBUNTU-Crontab
-Práctica Crontab
